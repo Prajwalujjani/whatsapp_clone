@@ -80,7 +80,7 @@ public class WhatsAppChatActivity extends AppCompatActivity implements View.OnCl
                             }
 
                             chatsList.add(waMessage);
-                            
+
                         }
                         adapter.notifyDataSetChanged();
 
